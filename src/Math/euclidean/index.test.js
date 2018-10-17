@@ -7,4 +7,4 @@ test('Math.edulidean', () => {
     expect(edulidean(4, 2)).toBe(2);
     expect(edulidean(12, 9)).toBe(3);
     expect(edulidean(12, -16)).toBe(4);
-  });
+});

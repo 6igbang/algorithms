@@ -1,11 +1,11 @@
 /**
  * function fibonacci
- * 
+ *
  * @param {Number} n
- * 
+ *
  * @return {Number} nth fibonacci number
  */
-function fibonacci(n) {
+function fibonacci (n) {
     if (n < 0) {
         return 0;
     }
