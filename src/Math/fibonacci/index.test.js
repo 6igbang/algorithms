@@ -12,3 +12,4 @@ test('Math.fibonacci', () => {
     expect(fibonacci(9)).toBe(34);
     expect(fibonacci(10)).toBe(55);
   });
+});
